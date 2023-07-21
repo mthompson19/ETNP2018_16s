@@ -1,0 +1,48 @@
+Zotu943_d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__Woesearchaeales; f__SCGC_AAA011-D5; g__SCGC_AAA011-D5
+Zotu256_d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Marine_Group_II; f__Marine_Group_II; g__Marine_Group_II; s__marine_metagenome
+Zotu1301_d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Thermoplasmata; f__Thermoplasmata; g__Marine_Group_III; s__uncultured_marine
+Zotu525_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Crocinitomicaceae; g__Crocinitomix; s__uncultured_Crocinitomix
+Zotu458_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Crocinitomicaceae; g__Crocinitomix; s__uncultured_Crocinitomix
+Zotu316_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Crocinitomicaceae; g__Crocinitomix; s__uncultured_Crocinitomix
+Zotu703_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__uncultured; s__uncultured_marine
+Zotu631_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Pseudofulvibacter; s__uncultured_bacterium
+Zotu545_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__NS5_marine_group
+Zotu465_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__NS5_marine_group
+Zotu436_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa
+Zotu257_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__NS5_marine_group
+Zotu245_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__NS2b_marine_group
+Zotu282_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__NS4_marine_group
+Zotu216_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__NS5_marine_group
+Zotu134_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa; s__uncultured_marine
+Zotu79_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__NS4_marine_group
+Zotu65_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__NS4_marine_group
+Zotu921_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__NS9_marine_group; g__NS9_marine_group; s__uncultured_marine
+Zotu333_d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__NS9_marine_group; g__NS9_marine_group; s__uncultured_bacterium
+Zotu725_d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Synechococcales; f__Cyanobiaceae; g__Synechococcus_CC9902
+Zotu397_d__Bacteria; p__Desulfobacterota; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_delta
+Zotu1963_d__Bacteria; p__Marinimicrobia_(SAR406_clade); c__Marinimicrobia_(SAR406_clade); o__Marinimicrobia_(SAR406_clade); f__Marinimicrobia_(SAR406_clade); g__Marinimicrobia_(SAR406_clade); s__hydrothermal_vent
+Zotu557_d__Bacteria; p__NB1-j; c__NB1-j; o__NB1-j; f__NB1-j; g__NB1-j; s__uncultured_marine
+Zotu2934_d__Bacteria; p__Planctomycetota; c__OM190; o__OM190; f__OM190; g__OM190; s__uncultured_bacterium
+Zotu268_d__Bacteria; p__Planctomycetota; c__OM190; o__OM190; f__OM190; g__OM190
+Zotu890_d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__AKAU3564_sediment_group; g__AKAU3564_sediment_group; s__uncultured_bacterium
+Zotu645_d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__Phycisphaeraceae; g__CL500-3; s__uncultured_Phycisphaeraceae
+Zotu515_d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__Phycisphaeraceae; g__CL500-3; s__uncultured_Phycisphaeraceae
+Zotu67_d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__Phycisphaeraceae
+Zotu102_d__Bacteria; p__Planctomycetota; c__Planctomycetes; o__Pirellulales; f__Pirellulaceae; g__Pirellula
+Zotu170_d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae
+Zotu786_d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Curvibacter
+Zotu1014_d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Aquabacterium
+Zotu1579_d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Comamonas
+Zotu224_d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylomonadaceae; g__Milano-WF1B-03; s__uncultured_gamma
+Zotu821_d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Woeseiaceae; g__Woeseia
+Zotu1676_d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Stenotrophomonas
+Zotu242_d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__SAR86_clade; f__SAR86_clade; g__SAR86_clade
+Zotu691_d__Bacteria; p__Verrucomicrobiota; c__Kiritimatiellae; o__Kiritimatiellales; f__Kiritimatiellaceae; g__R76-B128; s__uncultured_bacterium
+Zotu687_d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales; f__Puniceicoccaceae; g__Lentimonas; s__uncultured_bacterium
+Zotu495_d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales; f__Puniceicoccaceae; g__Lentimonas; s__uncultured_Puniceicoccaceae
+Zotu522_d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales; f__Puniceicoccaceae; g__Coraliomargarita
+Zotu225_d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales; f__Puniceicoccaceae; g__Lentimonas; s__uncultured_bacterium
+Zotu481_d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Rubritaleaceae; g__Roseibacillus; s__uncultured_organism
+Zotu534_d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Rubritaleaceae; g__Roseibacillus
+Zotu139_d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Rubritaleaceae; g__Roseibacillus; s__uncultured_marine
+Zotu90_d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Rubritaleaceae; g__Roseibacillus
