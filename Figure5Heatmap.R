@@ -1,4 +1,4 @@
-#Figure 4: The normalized (by trimmed mean of M values) abundance (log10 of counts per million calculated by EdgeR) of 48 most abundant amplicon sequence variants (rows) that were differentially abundant between surface, upper oxycline and anoxic depths, and lower oxycline depths in all samples (columns) collected from the ETNP OMZ in the free-living (FL), small particle-associated (SPA), and large particle-associated (LPA) size fractions.
+#Figure 5: The normalized (by trimmed mean of M values) abundance (log10 of counts per million calculated by EdgeR) of 48 most abundant amplicon sequence variants (rows) that were differentially abundant between surface, upper oxycline and anoxic depths, and lower oxycline depths in all samples (columns) collected from the ETNP OMZ in the free-living (FL), small particle-associated (SPA), and large particle-associated (LPA) size fractions.
 ## Large volume size-fractioned filtration yields novel insights on prokaryotic community composition and interactions in the eastern tropical North Pacific ocean 
 ## Madeleine A. Thompson, David L. Valentine, Xuefeng Peng
 
