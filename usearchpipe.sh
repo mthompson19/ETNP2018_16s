@@ -59,7 +59,7 @@ usearch -fastx_uniques filtered.fa -fastaout uniques.fa -sizeout -relabel Uniq
 echo "denoise" 
 usearch -unoise3 uniques.fa -zotus zotus.fa
 # or run this
-usearch -cluster_otus uniques.fa -otus otus.fa -relabel Otu
+usearch -cluster_otus uniques.fa -otus otus.fa -id 0.99
 
 #ZOTU table 
 echo "ZOTU table" 
