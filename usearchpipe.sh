@@ -59,28 +59,28 @@ usearch -fastx_uniques filtered.fa -fastaout uniques.fa -sizeout -relabel Uniq
 echo "denoise" 
 usearch -unoise3 uniques.fa -zotus zotus.fa
 # or run this
-usearch -cluster_otus uniques.fa -otus otus.fa -id 0.99
+usearch -cluster_otus uniques.fa -otus otus.fa 
 
 #ZOTU table 
 echo "ZOTU table" 
-usearch -otutab 200bp_merged.fq -zotus zotus.fa -otutabout zotutab.txt -biomout zotutab.json -mapout zmap.txt -notmatched unmapped.fa -dbmatched zotus_with_sizes.fa -sizeout -threads 10
+usearch -otutab 200bp_merged.fq -zotus otus.fa -otutabout otutab.txt -biomout otutab.json -mapout zmap.txt -notmatched unmapped.fa -dbmatched otus_with_sizes.fa -sizeout -threads 10
 ## go into zotus.fa and remove the methanobacterium and bacillus (you have to merge the ZOTU and Taxonomy in phyloseq to figure out which ZOTU is each 
 ### they are contaminants and only found in abundance in Stn3Cast9370m02um 
 
 #Import ZOTU to Qiime
 echo "Import ZOTU to Qiime"
-qiime tools import --input-path zotus.fa --output-path zotus.qza --type 'FeatureData[Sequence]'
+qiime tools import --input-path otus.fa --output-path otus.qza --type 'FeatureData[Sequence]'
 
 
 #Qiime Taxonomy 
 echo "Qiime Taxonomy"
 qiime feature-classifier classify-sklearn \
  --i-classifier silva-138-99-515-806-nb-classifier.qza \
- --i-reads zotus.qza \
- --o-classification zotu_16S_taxonomy.qza
+ --i-reads otus.qza \
+ --o-classification otu_16S_taxonomy.qza
 
 #Export to tsv
 echo "export to tsv"
-qiime tools export --input-path zotu_16S_taxonomy.qza --output-path 16S_taxonomy_tsv
+qiime tools export --input-path otu_18S_taxonomy.qza --output-path 18S_taxonomy_tsv
 
 #done
