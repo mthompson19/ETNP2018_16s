@@ -41,9 +41,8 @@ NAME=$(basename $fq .fastq)
 usearch -fastx_truncate ${fq} -trunclen 200 -fastqout ${NAME}_200bp.fastq
 done
 
-#Merge reads 
+#Merge reads - 
 echo "Merge reads"
-usearch -fastq_mergepairs $fq -relabel @ -fastq_maxdiffs 5 -fastqout ./200bp_merged.fq -report ./merge_200bp_report.txtq
 
 usearch -fastq_mergepairs *R1.fastq -relabel @ -fastq_maxdiffs 10 -fastq_pctid 80 -fastqout ./200bp_merged.fq -report ./merge_200bp_report.txt
 
