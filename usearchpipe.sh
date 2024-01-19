@@ -44,7 +44,7 @@ done
 #Merge reads - 
 echo "Merge reads"
 
-usearch -fastq_mergepairs *R1.fastq -relabel @ -fastq_maxdiffs 10 -fastq_pctid 80 -fastqout ./200bp_merged.fq -report ./merge_200bp_report.txt
+usearch -fastq_mergepairs *R1_200bp.fastq -relabel @ -fastq_maxdiffs 10 -fastq_pctid 80 -fastqout ./200bp_merged.fq -report ./merge_200bp_report.txt
 
 #Filter reads
 echo "filter reads"
